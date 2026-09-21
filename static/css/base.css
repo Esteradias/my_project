@@ -1,6 +1,5 @@
 body {
-    background-image: url('/static/img/bg01.png');
- background-attachment: fixed;
+    background-attachment: fixed;
     background-color: orange;
     background-position: center;
     background-repeat: no-repeat;
@@ -18,4 +17,10 @@ a:hover {
 
 header a {
     text-decoration: none;
+}
+
+.contact-form {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
 }
